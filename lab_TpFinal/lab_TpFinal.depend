@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1668687766 source:f:\lab_tpfinal\arbollaberinto.c
+	<stdio.h>
+	<stdlib.h>
+	"arbolLaberinto.h"
+	<time.h>
+	"arregloDlistas.h"
+	"archivos.h"
+
+1668687766 f:\lab_tpfinal\arbollaberinto.h
+	"arregloDlistas.h"
+
+1668687766 f:\lab_tpfinal\arreglodlistas.h
+
+1668687766 f:\lab_tpfinal\archivos.h
+	"arregloDlistas.h"
+
+1668695462 source:f:\lab_tpfinal\archivos.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"archivos.h"
+	"arbolLaberinto.h"
+	"arregloDlistas.h"
+
+1668687766 source:f:\lab_tpfinal\arreglodlistas.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"string.h"
+	"arregloDlistas.h"
+	"arbolLaberinto.h"
+	"archivos.h"
+
+1668695524 source:f:\lab_tpfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arbolLaberinto.h"
+	<time.h>
+	"string.h"
+	"archivos.h"
+
+1668687766 source:c:\users\usuario\desktop\trabajos progra\codeblocks\lab2\lab_tpfinal\arbollaberinto.c
+	<stdio.h>
+	<stdlib.h>
+	"arbolLaberinto.h"
+	<time.h>
+	"arregloDlistas.h"
+	"archivos.h"
+
+1668687766 c:\users\usuario\desktop\trabajos progra\codeblocks\lab2\lab_tpfinal\arbollaberinto.h
+	"arregloDlistas.h"
+
+1668687766 c:\users\usuario\desktop\trabajos progra\codeblocks\lab2\lab_tpfinal\arreglodlistas.h
+
+1668687766 c:\users\usuario\desktop\trabajos progra\codeblocks\lab2\lab_tpfinal\archivos.h
+	"arregloDlistas.h"
+
+1668695462 source:c:\users\usuario\desktop\trabajos progra\codeblocks\lab2\lab_tpfinal\archivos.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"archivos.h"
+	"arbolLaberinto.h"
+	"arregloDlistas.h"
+
+1668687766 source:c:\users\usuario\desktop\trabajos progra\codeblocks\lab2\lab_tpfinal\arreglodlistas.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"string.h"
+	"arregloDlistas.h"
+	"arbolLaberinto.h"
+	"archivos.h"
+
+1668695524 source:c:\users\usuario\desktop\trabajos progra\codeblocks\lab2\lab_tpfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arbolLaberinto.h"
+	<time.h>
+	"string.h"
+	"archivos.h"
+
